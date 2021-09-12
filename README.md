@@ -18,7 +18,7 @@ For local development you will need to run this codebase in a server because it 
 go run main.go
 ```
 
-This will start up a local web-server hosting the card generation HTML page, you then just need to navigate to [http://localhost:3000](http://localhost:3000).
+This will start up a local web server hosting the card generation HTML page, you then just need to navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Future
 
